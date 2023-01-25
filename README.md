@@ -1,1 +1,1 @@
-# RecentlyComparedProductWidget
+ExtendComparedProducts
